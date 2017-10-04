@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import SimpleCube from './components/Three';
+import SimpleCube from './components/SimpleCube';
 
 class Calcolatrice extends Component {
   render() {

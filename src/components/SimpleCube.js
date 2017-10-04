@@ -50,4 +50,4 @@ class SimpleCube extends React.Component {
   }
 }
 
-export default Simple;
+export default SimpleCube;
